@@ -113,6 +113,11 @@ hr{
     padding-bottom: 5px;
 
   }
+
+.footer-link{
+  margin-top: 15px;
+}    
+
   .copyright {
     color: black;
     font-size: 0.75rem;
